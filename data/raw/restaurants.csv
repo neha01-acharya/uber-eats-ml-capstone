@@ -1,0 +1,101 @@
+restaurant_id,restaurant_name,restaurant_category,city,restaurant_rating,avg_preparation_time
+R0001,Odom PLC,Indian,Bangalore,4.0,15
+R0002,Gutierrez LLC,Desserts,Chennai,3.9,22
+R0003,Hawkins PLC,Fast Food,Bangalore,4.2,31
+R0004,"Buck, Garrett and Simmons",Italian,Mumbai,4.2,40
+R0005,Williams-Cooper,Desserts,Delhi,3.3,31
+R0006,"Powers, Floyd and Flores",Indian,Mumbai,4.5,36
+R0007,Russell-Evans,Chinese,Chennai,3.6,23
+R0008,Webster Group,Fast Food,Mumbai,4.8,14
+R0009,Atkinson LLC,Fast Food,Hyderabad,4.6,41
+R0010,"Thomas, Ford and Brown",North Indian,Delhi,3.7,43
+R0011,Faulkner-Grant,Indian,Hyderabad,4.6,16
+R0012,Price LLC,South Indian,Hyderabad,3.7,19
+R0013,Rivera Inc,Fast Food,Chennai,3.2,26
+R0014,Boone-Davis,Italian,Bangalore,4.9,39
+R0015,"Calderon, Williams and Bennett",Fast Food,Hyderabad,4.3,30
+R0016,"Morrison, Russo and Lopez",North Indian,Mumbai,3.9,22
+R0017,"Ramsey, Hansen and Mendoza",Chinese,Bangalore,3.8,10
+R0018,Turner-Stout,North Indian,Mumbai,3.6,10
+R0019,Giles Ltd,Fast Food,Mumbai,5.0,42
+R0020,Burgess Group,Desserts,Bangalore,3.3,34
+R0021,Dominguez Ltd,South Indian,Bangalore,3.6,35
+R0022,Sanders and Sons,Cafe,Mumbai,4.0,22
+R0023,"Morris, Campbell and Owens",Fast Food,Chennai,4.0,37
+R0024,"Howard, Green and Hunt",Indian,Delhi,3.9,42
+R0025,Owens-Lang,Fast Food,Delhi,3.4,39
+R0026,"Harrison, Franco and Rocha",South Indian,Chennai,3.3,17
+R0027,Edwards-Williams,Indian,Bangalore,3.5,10
+R0028,Figueroa Inc,Italian,Mumbai,4.8,21
+R0029,Tran-Silva,Desserts,Delhi,3.2,14
+R0030,"Butler, Hernandez and Rivera",Indian,Mumbai,4.5,33
+R0031,Hudson-Sanchez,North Indian,Chennai,4.5,15
+R0032,"Pena, Cohen and Scott",Chinese,Mumbai,4.6,34
+R0033,Levy-May,North Indian,Chennai,4.8,10
+R0034,Murray-Oconnor,Cafe,Bangalore,3.5,34
+R0035,Jackson-Cortez,Indian,Chennai,3.4,10
+R0036,White-Preston,Italian,Chennai,3.9,41
+R0037,"Bernard, Warren and Combs",Fast Food,Delhi,3.5,12
+R0038,Landry Ltd,Desserts,Mumbai,4.5,28
+R0039,Duran Group,Indian,Delhi,4.3,38
+R0040,Kirby and Sons,North Indian,Hyderabad,4.7,11
+R0041,Mann Inc,Indian,Chennai,3.2,18
+R0042,Wagner LLC,Indian,Hyderabad,4.8,26
+R0043,Williamson Ltd,Indian,Delhi,3.6,26
+R0044,"Durham, Hopkins and Smith",Italian,Mumbai,4.0,21
+R0045,"Arnold, Smith and Moreno",Desserts,Delhi,3.9,29
+R0046,Nichols-Mitchell,South Indian,Mumbai,4.5,12
+R0047,"Li, Craig and Drake",South Indian,Mumbai,3.8,13
+R0048,Rodriguez Inc,Indian,Bangalore,4.9,26
+R0049,"Hernandez, Lee and Fox",Italian,Chennai,4.8,24
+R0050,Adams-Sanders,Italian,Delhi,4.7,42
+R0051,Chung-Stevens,Cafe,Mumbai,3.1,25
+R0052,Branch and Sons,Indian,Delhi,4.7,20
+R0053,Sutton-Abbott,North Indian,Delhi,4.6,29
+R0054,"Frey, Santos and Johnson",North Indian,Mumbai,3.2,33
+R0055,Gray-Tran,Chinese,Hyderabad,3.2,25
+R0056,Walsh Ltd,Desserts,Chennai,3.2,39
+R0057,Miller Group,Indian,Chennai,3.0,43
+R0058,"Mueller, Knight and Hodge",Chinese,Bangalore,4.1,10
+R0059,Jacobson Inc,North Indian,Bangalore,4.9,33
+R0060,Lewis Ltd,North Indian,Bangalore,3.9,33
+R0061,"Alvarez, Williams and Jones",Indian,Chennai,4.1,18
+R0062,Lam-Elliott,Chinese,Hyderabad,4.9,31
+R0063,White LLC,Chinese,Chennai,3.5,21
+R0064,Ali PLC,Indian,Chennai,4.7,26
+R0065,Goodwin Ltd,Desserts,Chennai,4.1,34
+R0066,Hickman-Evans,Cafe,Chennai,4.1,37
+R0067,"Allen, Davenport and Price",Chinese,Hyderabad,3.7,24
+R0068,"Rivera, Campos and Taylor",Cafe,Bangalore,4.1,39
+R0069,"Ramsey, Mason and Mccann",Fast Food,Delhi,3.1,36
+R0070,Davis and Sons,Desserts,Bangalore,4.5,31
+R0071,Peterson PLC,North Indian,Bangalore,3.6,19
+R0072,"Sanders, Ayala and Johnson",South Indian,Delhi,4.8,40
+R0073,Bowers-Hayes,Desserts,Chennai,3.7,36
+R0074,Kelly Group,Cafe,Hyderabad,3.3,21
+R0075,Lopez-Willis,Cafe,Hyderabad,4.4,40
+R0076,Miller-Montgomery,Cafe,Bangalore,3.3,41
+R0077,Marquez Inc,Italian,Delhi,4.5,41
+R0078,Moore-Dawson,Desserts,Mumbai,4.9,44
+R0079,"Moore, Price and Ward",Chinese,Chennai,4.6,30
+R0080,Smith LLC,Chinese,Bangalore,3.0,19
+R0081,Ward-Nelson,Italian,Hyderabad,4.2,25
+R0082,Miller Group,Chinese,Delhi,4.4,16
+R0083,Hawkins-Hunt,Italian,Delhi,4.7,13
+R0084,Johnson LLC,Cafe,Bangalore,3.1,36
+R0085,"Davis, George and Nguyen",Indian,Mumbai,4.0,34
+R0086,Smith-Gutierrez,Desserts,Hyderabad,4.1,40
+R0087,Hardy PLC,Fast Food,Bangalore,3.3,20
+R0088,Armstrong and Sons,Cafe,Mumbai,3.6,29
+R0089,"James, Taylor and Turner",Fast Food,Delhi,3.9,26
+R0090,Thomas-Jackson,North Indian,Chennai,4.7,20
+R0091,Fisher-Washington,Cafe,Hyderabad,4.9,39
+R0092,Ward and Sons,South Indian,Hyderabad,4.3,44
+R0093,"Weber, Wheeler and Gonzalez",Chinese,Mumbai,3.8,31
+R0094,Taylor Inc,South Indian,Bangalore,3.5,36
+R0095,Cook-Oliver,Indian,Delhi,5.0,44
+R0096,Alexander-Jordan,Fast Food,Mumbai,5.0,13
+R0097,"Mccann, Taylor and Flores",Desserts,Chennai,4.8,25
+R0098,"Harris, Edwards and Oconnell",Cafe,Chennai,4.6,25
+R0099,Carter-Neal,Desserts,Chennai,3.7,30
+R0100,Faulkner-Casey,Indian,Mumbai,4.6,35
