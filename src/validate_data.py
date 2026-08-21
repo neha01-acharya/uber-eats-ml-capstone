@@ -117,3 +117,84 @@ print("Invalid order IDs in Payments:", invalid_payment_order)
 
 
 print("\n========== VALIDATION COMPLETE ==========")
+
+
+
+# -----------------------------
+
+# 5. Data Cleaning
+
+# -----------------------------
+
+print("\n========== DATA CLEANING ==========")
+
+# Create processed data directory
+
+PROCESSED_PATH = Path("data/processed")
+PROCESSED_PATH.mkdir(parents=True, exist_ok=True)
+
+def clean_dataframe(df):
+    df = df.drop_duplicates().copy()
+    text_columns = df.select_dtypes(include="object").columns
+    for col in text_columns:
+        df[col] = df[col].str.strip()
+    return df
+
+
+
+
+customers_cleaned = clean_dataframe(customers)
+restaurants_cleaned = clean_dataframe(restaurants)
+drivers_cleaned = clean_dataframe(drivers)
+orders_cleaned = clean_dataframe(orders)
+deliveries_cleaned = clean_dataframe(deliveries)
+reviews_cleaned = clean_dataframe(reviews)
+payments_cleaned = clean_dataframe(payments)
+
+# -----------------------------
+
+# 6. Save Processed Datasets
+
+# -----------------------------
+
+print("\n========== SAVING PROCESSED DATA ==========")
+
+customers_cleaned.to_csv(
+PROCESSED_PATH / "customers_cleaned.csv",
+index=False
+)
+
+restaurants_cleaned.to_csv(
+PROCESSED_PATH / "restaurants_cleaned.csv",
+index=False
+)
+
+drivers_cleaned.to_csv(
+PROCESSED_PATH / "drivers_cleaned.csv",
+index=False
+)
+
+orders_cleaned.to_csv(
+PROCESSED_PATH / "orders_cleaned.csv",
+index=False
+)
+
+deliveries_cleaned.to_csv(
+PROCESSED_PATH / "deliveries_cleaned.csv",
+index=False
+)
+
+reviews_cleaned.to_csv(
+PROCESSED_PATH / "reviews_cleaned.csv",
+index=False
+)
+
+payments_cleaned.to_csv(
+PROCESSED_PATH / "payments_cleaned.csv",
+index=False
+)
+
+print("\n========== PROCESSED DATA SAVED ==========")
+
+for file in PROCESSED_PATH.iterdir():
+    print(file)
