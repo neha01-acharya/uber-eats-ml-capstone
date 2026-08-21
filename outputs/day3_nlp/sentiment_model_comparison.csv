@@ -1,0 +1,4 @@
+Model,Accuracy
+Logistic Regression,1.0
+Linear SVM,1.0
+VADER,0.6742857142857143

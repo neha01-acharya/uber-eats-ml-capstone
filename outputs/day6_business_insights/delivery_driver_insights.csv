@@ -1,0 +1,12 @@
+Feature,Importance
+delivery_distance_km,0.4323283822951567
+preparation_time_minutes,0.298606555460601
+traffic_condition_Low,0.1030991801298734
+weather_Rainy,0.0729679075942867
+traffic_condition_Medium,0.0428716587854902
+order_amount,0.0155732837423541
+order_hour,0.0115548770335851
+weather_Cloudy,0.0083460499652346
+day_of_week,0.0068687619145512
+number_of_items,0.0068505412237049
+is_weekend,0.0009328018551619
