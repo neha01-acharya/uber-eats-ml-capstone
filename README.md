@@ -133,7 +133,22 @@ uber-eats-ml-capstone/
 │
 ├── data/
 │   ├── raw/
+│   │   ├── customers.csv
+│   │   ├── deliveries.csv
+│   │   ├── drivers.csv
+│   │   ├── orders.csv
+│   │   ├── payments.csv
+│   │   ├── restaurants.csv
+│   │   └── reviews.csv
+│   │
 │   └── processed/
+│       ├── customers_cleaned.csv
+│       ├── deliveries_cleaned.csv
+│       ├── drivers_cleaned.csv
+│       ├── orders_cleaned.csv
+│       ├── payments_cleaned.csv
+│       ├── restaurants_cleaned.csv
+│       └── reviews_cleaned.csv
 │
 ├── docs/
 │   └── data_dictionary.md
